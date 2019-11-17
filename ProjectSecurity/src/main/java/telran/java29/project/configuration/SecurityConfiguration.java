@@ -28,6 +28,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 //		Search by filters
 //		search cars by coordinates
 //		search car 
+		//
 	}
 	
 	@Override
